@@ -12,12 +12,6 @@
 
 [![N8N, React, Next.js, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
 
-## 🏆 My Stats:
-
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puffer-git&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puffer-git&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
 
 <p>
     <a target="_blank"href="https://www.gitpoap.io/gp/893"><img height=175 alt="Taiko GitHub Contributor 2023" src="https://www.gitpoap.io/_next/image?url=https%3A%2F%2Fassets.poap.xyz%2Fgitpoap3a-2023-taiko-contributor-2022-logo-1671723111328.png&w=750&q=75" />&nbsp;&nbsp;
