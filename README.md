@@ -1,3 +1,8 @@
 - 🌱 I’m passionate about [serverless in AWS](https://aws.amazon.com/serverless/) and [Web3](https://ethereum.org/en/web3/).
 - 🏆 I'm striving to increase my [GitHub stats rating](#🏆-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 - ⚡ Fun fact: I play tennis, swim and read book!
+
+## Contact
+
+- **Email:** devpuffer0807@gmail.com
+- **Telegram:** [@devpuffer0807](https://t.me/devpuffer0807)
