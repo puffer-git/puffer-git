@@ -6,3 +6,4 @@
 
 - **Email:** devpuffer0807@gmail.com
 - **Telegram:** [@devpuffer0807](https://t.me/devpuffer0807)
+- **Blog:** [Medium](https://medium.com/@devpuffer0807)
